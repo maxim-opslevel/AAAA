@@ -3,7 +3,7 @@ version: 1
 service:
   name: AAAA
   lifecycle:
-  tier: tier_4
+  tier: tier_1
   product:
   owner: a5
   language:
