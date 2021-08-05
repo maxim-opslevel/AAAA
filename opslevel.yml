@@ -1,0 +1,19 @@
+---
+version: 1
+service:
+  name: AAAA
+  lifecycle:
+  tier: tier_4
+  product:
+  owner: a5
+  language:
+  framework:
+  description:
+  aliases:
+  tags:
+  repositories:
+  - name: maxim-opslevel/AAAA
+    path: "/"
+    provider: github
+  tools:
+  dependencies:
