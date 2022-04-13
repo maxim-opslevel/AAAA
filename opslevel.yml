@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: aaaa
+  name: AAAA
   lifecycle:
   tier: tier_2
   product:
