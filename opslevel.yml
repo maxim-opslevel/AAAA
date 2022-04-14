@@ -6,7 +6,7 @@ service:
   tier: tier_3
   product:
   owner: a5
-  language:
+  language: Ruby
   framework:
   description: Hello My Name
   aliases:
