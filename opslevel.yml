@@ -11,6 +11,8 @@ service:
   description: Hello My Name
   aliases:
   tags:
+  - key: owner
+    value: frontend
   repositories:
   - name: maxim-opslevel/AAAA
     path: "/"
