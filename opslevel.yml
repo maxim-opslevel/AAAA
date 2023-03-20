@@ -11,8 +11,6 @@ service:
   description: Hello My Name
   aliases:
   tags:
-  - key: whale
-    value: bone
   repositories:
   - name: maxim-opslevel/AAAA
     path: "/"
