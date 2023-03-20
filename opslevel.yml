@@ -12,7 +12,7 @@ service:
   aliases:
   tags:
   - key: whale
-    value: tusk
+    value: bone
   repositories:
   - name: maxim-opslevel/AAAA
     path: "/"
