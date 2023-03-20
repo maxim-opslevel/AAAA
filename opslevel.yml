@@ -11,6 +11,8 @@ service:
   description: Hello My Name
   aliases:
   tags:
+  - key: whale
+    value: tusk
   repositories:
   - name: maxim-opslevel/AAAA
     path: "/"
